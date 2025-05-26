@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Marcell Ziemann"
-title: "Principal Strategist"
+name: "Ms. Thelma Edwards"
+title: "Chief Executive Officer"
 avatar: {
-    src: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?&fit=crop&w=280",
-    alt: "Marcell Ziemann"
+    src: "/src/assets/Thelma.jpeg",
+    alt: "Ms. Thelma Edwards"
 }
-publishDate: "2022-11-08 15:39"
+publishDate: "2025-05-20 15:39"
 ---

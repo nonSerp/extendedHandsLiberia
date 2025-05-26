@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Janette Lynch"
-title: "Senior Director"
+name: "Morrison Dassin Jr."
+title: "Chairman/Founder"
 avatar: {
-    src: "https://images.unsplash.com/photo-1580489944761-15a19d654956?&fit=crop&w=280",
-    alt: "Janette Lynch"
+    src: "/src/assets/Morrison Dassin jr.jpeg",
+    alt: "Morris Dassin Jr."
 }
-publishDate: "2022-11-07 15:39"
+publishDate: "2025-05-07 15:39"
 ---
