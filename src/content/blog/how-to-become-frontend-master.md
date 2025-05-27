@@ -3,7 +3,7 @@ draft: false
 title: "This is Patience 31yrs old, mother of 3 children which includes little Vera who sells plastic in redlight market."
 snippet: "Humanity is an act of selflessness and compassion we should mirror ourselves into and live it out."
 image: {
-    src: "/src/assets/patience.jpeg",
+    src: "../../src/assets/patience.jpeg",
     alt: "Patience"
 }
 publishDate: "2024-01-18 15:39"

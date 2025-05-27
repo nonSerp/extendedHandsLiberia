@@ -3,7 +3,7 @@ draft: false
 title: "CONSTITUENTS OF DISTRICT #4 MARGIBI COUNTY EXPOSE TO HEALTH CRISIS, CRIED FOR ASSISTANCE IN GETTING SAFE DRINKING WATER."
 snippet: "CONSTITUENTS OF DISTRICT #4 MARGIBI COUNTY EXPOSE TO HEALTH CRISIS, CRIED FOR ASSISTANCE IN GETTING SAFE DRINKING WATER."
 image: {
-    src: "/src/assets/water.jpeg",
+    src: "../../src/assets/water.jpeg",
     alt: "water crisis"
 }
 publishDate: "2024-11-09 16:39"

@@ -3,7 +3,7 @@ draft: false
 title: "Montserrado County"
 snippet: "Last April, our team came across Ma Martha, in Bassa Town, Fendell community, who called out the central government for assistance in roofing her house because, during the rainy season, it can be bad."
 image: {
-    src: "/src/assets/smile.png",
+    src: "../../src/assets/smile.png",
     alt: "Fendell Community"
 }
 publishDate: "2024-04-08 11:39"
