@@ -15,6 +15,7 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
 
+  output: "static",
   adapter: vercel({
     imageService: true
   }),
